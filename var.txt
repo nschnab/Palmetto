@@ -1,0 +1,7 @@
+path0="/scratch/nschnab/dataFolder/fastqToFasta/-0-zipTest/"
+path1="/scratch/nschnab/dataFolder/fastqToFasta/-1-inputToFasta/"
+path2="/scratch/nschnab/dataFolder/fastqToFasta/-2-inputToKraken2/"
+path3="/scratch/nschnab/dataFolder/fastqToFasta/-3-inputToSPAdes/"
+path4="/scratch/nschnab/dataFolder/fastqToFasta/-4-output/"
+
+shTestPath="/home/nschnab/Desktop/shTest"

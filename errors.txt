@@ -1,0 +1,22 @@
+Converted /scratch/nschnab/dataFolder/fastqToFasta/-1-inputToFasta//CooS_R1.fastq to /scratch/nschnab/dataFolder/fastqToFasta/-2-inputToKraken2//CooS_R1.fasta
+NOTICE: If you want to install packages in perl 5.30.1, you must run the command 'setupcpan' before attempting to install them.
+Do not forget to run 'chmod -Rf g+rwX $PERLPATH' when done
+
+Loading database information... done.
+=>> PBS: job killed: mem 131078060kb exceeded limit 131072000kb
+ 
+ 
++------------------------------------------+ 
+| PALMETTO CLUSTER PBS RESOURCES REQUESTED | 
++------------------------------------------+ 
+ 
+mem=125gb,walltime=20:00:00,ncpus=10
+ 
+ 
++-------------------------------------+ 
+| PALMETTO CLUSTER PBS RESOURCES USED | 
++-------------------------------------+ 
+ 
+cput=00:35:28,mem=131078060kb,walltime=00:32:00,ncpus=10,cpupercent=103,vmem=91181344kb
+ 
+ 

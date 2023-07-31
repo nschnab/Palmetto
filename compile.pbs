@@ -1,0 +1,15 @@
+#!/bin/bash
+
+#PBS -N nolenData1
+#PBS -l select=1:ncpus=10:mem=125gb
+#PBS -l walltime=72:00:00
+#PBS -o errors.txt
+#PBS -j oe
+
+cd "/home/nschnab/Desktop/shTest"
+username="nschnab"
+
+# Submit the fastaToFastq job
+sh /home/nschnab/Desktop/shTest/step1Total.sh &
+echo "Working..."
+wait
