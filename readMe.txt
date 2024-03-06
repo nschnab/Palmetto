@@ -1,4 +1,4 @@
-Read Me for the shTest folder.
+Read Me:
 
 5 Steps total:
 0: zipMerge: Takes the first 2 ".gz" files with the label "_R1" and "_R2" and unzips them -> merges them (step 0 bc its optional in proccess)
